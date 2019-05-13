@@ -1,0 +1,20 @@
+---
+title: Brainstorm
+date: 2019-05-13
+author: Elias, Fernando, Paulo, Wagner, Walmes
+format: html_format
+---
+
+## Atividades
+
+
+## Páginas
+
+- Principal
+- Wiki
+- Cursos (LEG ou DEST)
+
+
+## Ferramentas
+
+- Rstudio Cloud
