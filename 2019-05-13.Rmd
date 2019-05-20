@@ -10,11 +10,24 @@ format: html_format
 
 ## Páginas
 
-- Principal
+- Principal (WZ)
+  - O que colocar de conteúdo
+  - Repositório de URLs
+  - Ver direcionamente (verificar wiki)
 - Wiki
-- Cursos (LEG ou DEST)
-
+  - Como fazer o redirecionamento de paginas
+- Cursos (LEG ou DEST) (FM)
+  - Manter em cursos.leg.ufpr.br
+  - Arumar a pagina raiz
 
 ## Ferramentas
 
+- Moodle (exams) Terça, 2019-05-20, 10:00 (com monitor)
+  - Templates para schoice/mchoice
+- Shiny (FM)
+  - Editar lista inicial de projetos
+  - Incluir autores e descrição dos projetos.
 - Rstudio Cloud
+- Templates
+  - Slides
+  - Documentos
