@@ -1,0 +1,48 @@
+---
+title: DSBD
+date: 2019-05-27
+author: Fernando, Walmes, Wagner
+format: html_format
+---
+
+# DSBDay
+
+- Formulario de inscricao
+  - Dados cadastrais
+    - Nome, email, cidade, estado
+  - Lista de cursos (ja cadastrados) - formacao
+  - Ano de formacao da graduacao
+  - Categoria (estudante, profisional, outro)
+  - URL linkedin (opcional)
+  - Area de atuacao (aberto)
+  - Intereses
+    - Cursos
+      - Calculo diferencia e integral
+      - Algebra linear
+      - Otimizcao e PO
+      - Probabilidade
+      - Inferencia estatistica
+      - Introducao ao R
+      - Introducao ao python
+      - Manipulacao e visualizacao em R
+      - Manipulacao e visualizacao em python
+      - Shell script
+      - Relatorios dinamicos (rmarkdown e knitr)
+      - Shiny e dashboards
+      - Web scraping
+      - Computacao paralela
+      - Modelos de regressao e classificacao
+      - Metodos multivariados
+      - Series temporais
+      - Tecnicas de machine learning
+      - Mineracao de texto
+      - Planejamento de experimento
+      - Tecnicas de amostragem
+      - Analise de questionarios
+      - Analise de dados espaciais
+      - Inferencia bayesiana
+      - Analise de redes sociais
+      - Modelagem de banco de dados
+      - Processamento de big data (spark e hadoop)
+      - Outros (preencher)
+  - Concordar com os termos

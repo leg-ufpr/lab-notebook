@@ -1,0 +1,13 @@
+---
+title: Brainstorm
+date: 2019-05-20
+author: Elias, Fernando, Paulo, Silvia, Walmes
+format: html_format
+---
+
+## Anterior
+
+- Shiny (FM)
+  - Lista inicial de projetos e descrição
+  - Ver https://github.com/leg-ufpr/ShinyApps/tree/master/home
+- Site Principal (WZ)
